@@ -1,0 +1,1 @@
+This file contain data about oxidation stability of natural biodiesels with the help antioxidants/aditives, also known as induction period. It´s important to note that all the tests induction period was NOT made by me and coordinator, since the main idea was to correlationate the induction period with the oxidants. 
